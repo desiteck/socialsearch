@@ -1,0 +1,8 @@
+npm install [react-cookie cookie {not required}] mongoose<checkconfirm> axios
+npm install mongodb { Finally used this }
+npm install --save iron-session
+835b0bff-8c05-482f-a791-ffb77f4ec444
+socialuser-0U33cj8a3PesCcPm
+mongodb+srv://socialuser:0U33cj8a3PesCcPm@cluster0.ncagm.mongodb.net/social?retryWrites=true&w=majority
+
+
